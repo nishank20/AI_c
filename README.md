@@ -26,7 +26,6 @@ The code runs the agent for a specified number of episodes (in this case, 100) a
 
 The output of the code shows the average timesteps and penalties per episode for the evaluated agent.
 
-https://user-images.githubusercontent.com/14859385/236921092-2fe33f1e-fba5-4af9-a5ac-b349b8e0b961.mp4
 
 The goal of my other project is to develop an intelligent system that can play Tic-Tac-Toe optimally using reinforcement learning. The project consists of two phases: the training phase, where two AI agents play against each other, and the test phase, where the trained AI model competes against a human player. The chosen approach is reinforcement learning, which consists of three components: State, Action, and Reward. The model is rewarded based on the action it takes in a given state. Thus, we first train the model and then evaluate its performance against a human player.
 
