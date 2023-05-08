@@ -25,7 +25,7 @@ code evaluates the performance of an agent trained using Q-learning on an OpenAI
 The code runs the agent for a specified number of episodes (in this case, 100) and computes the average number of timesteps and penalties (negative rewards) per episode. In each episode, the agent selects actions based on the learned Q-values and transitions to the next state according to the environment dynamics. If the agent receives a negative reward, it incurs a penalty.
 
 The output of the code shows the average timesteps and penalties per episode for the evaluated agent.
-
+https://github.com/nishank20/Advance_AI/blob/main/advance%20ai%20project.mov
 
 The goal of my other project is to develop an intelligent system that can play Tic-Tac-Toe optimally using reinforcement learning. The project consists of two phases: the training phase, where two AI agents play against each other, and the test phase, where the trained AI model competes against a human player. The chosen approach is reinforcement learning, which consists of three components: State, Action, and Reward. The model is rewarded based on the action it takes in a given state. Thus, we first train the model and then evaluate its performance against a human player.
 
